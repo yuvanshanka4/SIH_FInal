@@ -1,0 +1,613 @@
+.connect {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.connect .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1228px;
+  position: relative;
+}
+
+.connect .frame {
+  position: absolute;
+  width: 1440px;
+  height: 102px;
+  top: 0;
+  left: 0;
+  background-color: #1e5048;
+}
+
+
+
+.connect .image {
+  width: 83px;
+  height: 83px;
+  top: 9px;
+  left: 1321px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .text-wrapper {
+  position: absolute;
+  width: 1010px;
+  height: 122px;
+  top: 103px;
+  left: -243px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.connect .overlap {
+  position: absolute;
+  width: 1413px;
+  height: 1022px;
+  top: 206px;
+  left: 27px;
+}
+
+.connect .screenshot {
+  position: absolute;
+  width: 200px;
+  height: 579px;
+  top: 0;
+  left: 1213px;
+}
+
+.connect .img {
+  width: 78px;
+  height: 88px;
+  top: 227px;
+  left: 1329px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .frame-2 {
+  position: absolute;
+  width: 1413px;
+  height: 407px;
+  top: 553px;
+  left: 0;
+}
+
+.connect .overlap-group {
+  position: absolute;
+  width: 534px;
+  height: 409px;
+  top: -2px;
+  left: -1px;
+}
+
+.connect .text-wrapper-2 {
+  position: absolute;
+  width: 396px;
+  height: 122px;
+  top: 0;
+  left: 0;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.connect .overlap-group-wrapper {
+  position: absolute;
+  width: 244px;
+  height: 298px;
+  top: 111px;
+  left: 1px;
+  background-color: #fcfcfcbf;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.connect .overlap-group-2 {
+  position: relative;
+  width: 159px;
+  height: 234px;
+  left: 39px;
+}
+
+.connect .image-2 {
+  width: 159px;
+  height: 176px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .ravi-tiruvallur {
+  position: absolute;
+  width: 136px;
+  top: 168px;
+  left: 10px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.connect .overlap-wrapper {
+  position: absolute;
+  width: 244px;
+  height: 298px;
+  top: 111px;
+  left: 290px;
+  background-color: #fcfcfcbf;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.connect .div-wrapper {
+  position: absolute;
+  width: 244px;
+  height: 298px;
+  top: 109px;
+  left: 578px;
+  background-color: #fcfcfcbf;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.connect .frame-3 {
+  position: absolute;
+  width: 244px;
+  height: 298px;
+  top: 109px;
+  left: 867px;
+  background-color: #fcfcfcbf;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.connect .overlap-2 {
+  position: absolute;
+  width: 257px;
+  height: 298px;
+  top: 109px;
+  left: 1156px;
+}
+
+.connect .frame-4 {
+  position: absolute;
+  width: 244px;
+  height: 298px;
+  top: 0;
+  left: 0;
+  background-color: #fcfcfcbf;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.connect .image-3 {
+  width: 78px;
+  height: 88px;
+  top: 105px;
+  left: 179px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .image-4 {
+  width: 100px;
+  height: 73px;
+  top: 949px;
+  left: 650px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .div-2 {
+  position: absolute;
+  width: 148px;
+  height: 52px;
+  top: 898px;
+  left: 38px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.connect .overlap-3 {
+  position: absolute;
+  width: 31px;
+  height: 33px;
+  top: 3px;
+  left: 109px;
+}
+
+.connect .image-5 {
+  width: 23px;
+  height: 24px;
+  top: 9px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .image-6 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  left: 16px;
+  object-fit: cover;
+}
+
+.connect .text-wrapper-3 {
+  position: absolute;
+  width: 95px;
+  top: 6px;
+  left: 12px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #095db1;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.connect .div-3 {
+  position: absolute;
+  width: 148px;
+  height: 52px;
+  top: 900px;
+  left: 341px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.connect .div-4 {
+  position: absolute;
+  width: 148px;
+  height: 52px;
+  top: 898px;
+  left: 635px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.connect .div-5 {
+  position: absolute;
+  width: 148px;
+  height: 52px;
+  top: 894px;
+  left: 919px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.connect .div-6 {
+  position: absolute;
+  width: 148px;
+  height: 52px;
+  top: 897px;
+  left: 1209px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.connect .overlap-4 {
+  position: absolute;
+  width: 590px;
+  height: 492px;
+  top: 227px;
+  left: 13px;
+  border-radius: 40px;
+}
+
+.connect .frame-5 {
+  position: absolute;
+  width: 590px;
+  height: 492px;
+  top: 0;
+  left: 0;
+  background-color: #fcfcfcbf;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.connect .overlap-group-3 {
+  position: relative;
+  height: 485px;
+}
+
+.connect .image-7 {
+  width: 590px;
+  height: 212px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .image-8 {
+  width: 200px;
+  height: 229px;
+  top: 69px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .text-wrapper-4 {
+  position: absolute;
+  width: 290px;
+  height: 82px;
+  top: 129px;
+  left: 211px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0.72px;
+  line-height: 30.2px;
+}
+
+.connect .image-9 {
+  width: 307px;
+  height: 357px;
+  top: 72px;
+  left: 203px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .image-10 {
+  width: 275px;
+  height: 319px;
+  top: 136px;
+  left: 203px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .image-11 {
+  width: 247px;
+  height: 288px;
+  top: 197px;
+  left: 220px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .image-12 {
+  width: 138px;
+  height: 167px;
+  top: 288px;
+  left: 31px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.connect .frame-6 {
+  position: absolute;
+  width: 162px;
+  height: 51px;
+  top: 404px;
+  left: 263px;
+  background-color: #fdfeff;
+  border-radius: 40px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.connect .text-wrapper-5 {
+  width: 142px;
+  left: 7px;
+  position: absolute;
+  height: 56px;
+  top: -6px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #0a5eb1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.connect .overlap-5 {
+  position: absolute;
+  width: 590px;
+  height: 492px;
+  top: 227px;
+  left: 632px;
+  border-radius: 40px;
+}
+
+.connect .image-13 {
+  position: absolute;
+  width: 247px;
+  height: 288px;
+  top: 198px;
+  left: 207px;
+  object-fit: cover;
+}
+
+.connect .frame-7 {
+  position: absolute;
+  width: 176px;
+  height: 51px;
+  top: 404px;
+  left: 271px;
+  background-color: #fdfeff;
+  border-radius: 40px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.connect .text-wrapper-6 {
+  width: 155px;
+  left: 8px;
+  position: absolute;
+  height: 56px;
+  top: -6px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #0a5eb1;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+.connect .logo {
+  position: relative;
+  width: 122px;
+  height: 122px;
+  top: 0;
+  left: 130px;
+  object-fit: cover;
+}
+
+.connect .menu-bar {
+  position: absolute;
+  margin-top: 35px;
+  display: flex;
+  gap: 20px;
+  top: 3px;
+  
+}
+
+.connect .menu-bar a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.connect .menu-bar a:hover {
+  background-color: #165144; /* Change the background color on hover */
+}
+.connect .menu-bar {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end; /* Align the content to the right */
+  z-index: 3;
+}
+
+.connect .menu-bar .dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.connect .menu-bar .dropbtn {
+  background-color: #1e5048;
+  color:#fcfcfc;
+  padding: 0px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 24px;
+  
+
+}
+
+.connect .menu-bar .dropbtn:hover {
+  background-color: #ffffff; /* Change the background color on hover */
+
+  
+}
+
+.connect .menu-bar .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #1e5048;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  
+}
+
+.connect .menu-bar .dropdown-content a {
+  color: #fff;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: block;
+  font-size: 24px;
+  
+}
+
+.connect .menu-bar .dropdown-content a:hover {
+  background-color:#1e5048; /* Change the background color on hover */
+  margin-left: 0;
+}
+
+.connect .menu-bar .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.connect .connect{
+  height: 40px;
+  text-align: center;
+  font-size: 24px;
+  color: #095db1;
+  border:#ffffff;
+  cursor: pointer;
+
+}
+.connect .follow{
+  height: 40px;
+  text-align: center;
+  font-size: 28px;
+  color: #095db1;
+  border:#ffffff;
+  cursor: pointer;
+  background-color: #fff;
+  
+
+}
+
+
